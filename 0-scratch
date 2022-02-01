@@ -1,0 +1,66 @@
+# 1. Computational Thinking, Scratch
+
+## Links
+
+[Lecture](https://cs50.harvard.edu/x/2022/weeks/0/) <br />
+[Notes](https://cs50.harvard.edu/x/2022/notes/0/) <br />
+[Slides(PDF)](https://cdn.cs50.net/2021/fall/lectures/0/lecture0.pdf) <br />
+[Transcripts](http://cdn.cs50.net/2021/fall/lectures/0/lang/en/lecture0.txt) <br />
+[\* Assignment](https://cs50.harvard.edu/x/2022/psets/0/scratch/) <br />
+
+<br />
+
+## Summary
+
+Computer Science is about problem solving. Computer’s language is binary and each of binary digits is called bits. Algorithm is a logical thought process, as inhaled human nature. We can start from pseudocode to make to-do list and start from small parts. Scratch is a nice playground to practice programming-like thinking process.
+
+<br />
+
+## Keywords
+
+- computer science
+- problem-solving
+- binary
+- bits and bytes
+- ASCII
+- Unicode
+- pseudocode
+- small steps
+
+<br />
+
+## Computer Science === Problem Solving
+
+- Computer science is more about problem solving, not just about programming and isolation with computer.
+- Problems is all about putting input and process then get output.
+
+<br />
+
+## Representation numbers
+
+- unary: counting by fingers
+- decimal: ten digits, 0 through 9
+- binary: Computers use a simpler system called **binary**, with just two digits, 0 and 1.
+- Each _binary digit_ is also called a **bit**.
+
+<br />
+
+## Algorithms
+
+- Algorithm is actually just harnessing pretty good human intuition. Indeed, this is what programming is all about, too.
+- It’s not about learning a completely new world, but really just how to harness intuition and ideas that you might already have and take naturally but learning how to express them now more succinctly, more precisely, using things called programming languages.
+
+<br />
+
+## Pseudocode
+
+- Pseudocode is not a specific language, it’s not like something we’re about to start coding in, it’s just a way of expressing yourself in English or any human language succinctly correctly toward an end of getting your idea for an algorithm across.
+- If you anticipate all the possible cases, you’ll get better at thinking about those corner cases and handling anything that can possibly go wrong and as a result, your code will be all the better for it.
+- Now the problem ultimately with learning how to program, especially if you’ve never had experience or even if you do but you learned one language only, is that they all look a little cryptic at first glance. But they do share certain commonalities. In fact, we’ll use this pseudocode to define those first.
+- Lots of different programming languages exist, but most of them have what we might call functions, which are actions or verbs that solve some smaller problem. That is to say, you might use a whole bunch of functions to solve a bigger problem because each function tends to do something very specific or precise.
+
+<br />
+
+## Scratch basics
+
+- We use Scratch because again it will allow us to explore some of those programming fundamentals that will be in C and in Python and in JavaScript and other languages, too, but in a way where we don’t have to worry about the distractions of syntax.
